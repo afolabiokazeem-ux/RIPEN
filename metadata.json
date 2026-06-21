@@ -1,0 +1,6 @@
+{
+  "name": "AU Wallet",
+  "description": "Interactive demo of Africa's future Economic Operating System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
